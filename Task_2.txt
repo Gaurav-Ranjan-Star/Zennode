@@ -1,0 +1,49 @@
+Task 2:
+
+* Why do you like to join as a Software developer?
+Ans:
+    Software development is an ever-evolving field, with fresh technologies emerging daily. This constant influx of new knowledge and the need for adaptation keeps me engaged and energised. I delight in the opportunity to continuously expand my skillset and push the limits of what is achievable.
+
+    In essence, being a software developer surpasses mere employment for me; it is my purpose and an unending voyage of exploration. It allows me to combine my technical expertise with my imagination to create something significant, something that will have a lasting impact on both my team and the company as a whole. That is precisely why I am thrilled to become a part of the Developer team and contribute to the next ground-breaking innovation.
+
+
+* List top 3 softwares / tools that inspire you. Why do these tools inspire you?
+Ans: 
+    1.Asian Paints Home Decor App:
+    As a software developer, I am constantly inspired by tools that bridge the gap between technology and practical applications. The Asian Paints Home Decor app is an excellent example of this. Just imagine being able to create virtual mood boards, play around with different and textures, and visualize furniture placement, all with just a few taps on your screen. It's like having a mini interior designer that empowers anyone to unleash their inner decorator.
+
+    2. Zulip Decentralized App System:
+    My mind starts working in overdrive whenever I come across technologies that challenge the existing norms. Zulip, with its unique decentralized approach to app development, is one such technological marvel. The very idea of breaking free from the traditional app stores and fostering a more open, collaborative ecosystem for building software is truly fascinating.
+
+    3. WhatsApp Sign Emoji:
+    As a developer, I truly appreciate the power of small, thoughtful details. The introduction of the new sign emoji on WhatsApp is a perfect example of this. It's a subtle way of acknowledging the diverse methods people use to communicate and express themselves. This emoji serves as a constant reminder that even the tiniest features can have a significant impact.
+
+
+
+* List top 3 organisations you like to join in your career & why you like these organisations.
+    Ans: 
+    1. Google:
+    Google fosters a culture of continuous learning and growth, offering internal resources and programs like "Lunch & Learns" and hackathons. This collaborative environment where I can learn from the best and contribute my own ideas is incredibly appealing.
+
+    2. Backpack 
+    Open-Source Philosophy
+    Backpack's commitment to open-source technologies and transparent development aligns with my own belief in fostering collaboration and accessibility within the tech community. The opportunity to contribute to and learn from a community of passionate developers excites me.
+
+    3. OpenCV (Open Source Computer Vision Library):
+    OpenCV is a powerful and accessible library that democratises computer vision technology. Contributing to its development would enable me to be part of a project that empowers countless individuals and projects with AI vision capabilities.
+    OpenCV is utilised in various applications, ranging from robotics and self-driving cars to medical imaging and augmented reality. Working on solutions with such tangible real-world impact would be incredibly fulfilling.
+
+
+* How you position yourself in this industry after 2 years.
+Ans: By putting my best in open source contribution to figure out the latest trends set up by the  companies. by accomplishing small steps and combining all effort to rise with skilled power.
+
+* List 3 projects / products you have built or have planned to build in the upcoming year, also explain your role in the same.
+Ans: 1.Spotify clone
+        In this I am working to implement a partial functionality to make a personal space in offline mode where we download and play song without the subscription.
+        I am just working in this approach .
+        There are my individual contribution.
+
+    2.Netflix Clone
+        In this I am working to implement on torrent to mix torrent media to my local Netflix clone .
+        In this I failed several time but I am working to make a bridge between my interface and torrent to access media using the valid proxy gateways.  3.Portfolio Management System:
+        In this I am creating dashboard for my organisation during my internship.
